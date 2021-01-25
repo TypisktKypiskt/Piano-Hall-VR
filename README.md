@@ -1,7 +1,15 @@
-# kyparn-vr-piano
-Seated VR experience where you can use your fingers to play piano notes.
+# Piano Hall VR
+Piano Hall VR is a Seated VR experience where you can use your fingers to play piano notes on an oversized piano.
 
+To play on the piano, simply press the keys using your controller. The keys are pressure sensitive and will play louder notes if you press with a higher velocity.
 
+# Pre-requisites
+The experience is built using SteamVR. Make sure your headset supports it.
+
+# Links
+[itch.io](https://typisktkypiskt.itch.io/piano-hall-vr)
+
+[Trailer](https://youtu.be/b9XYa5tDM6Q)
 
 # Third-party
 Applause sound by Thaighaudio (https://freesound.org/s/478411/)
@@ -20,4 +28,4 @@ Francois Font by Vernon Adams (vern@newtypography.co.uk)
 Copyright (c) 2011 Vernon Adams
 Licensed under SIL Open Font License 1.1
 
-You can find all licenses in the ThirdParty-licenses directory.
+You can find licenses in the ThirdParty-licenses directory.
